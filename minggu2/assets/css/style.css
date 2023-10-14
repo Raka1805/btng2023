@@ -1,0 +1,34 @@
+h1 {
+    color : rgb(10, 25, 92);
+}
+ 
+ h1 {
+    font-weight: 700;
+    text-decoration: underline;
+ }
+
+ span{
+     color: blueviolet;
+     font-weight: 300;
+ } 
+
+ .container {
+    width: 200px;
+    border: 1px solid green;
+    box-shadow: 10px 13px 10px -1px rgba(37, 2, 2, 0.377);
+
+ }
+  #judul1 {
+    color: blue;
+    font-weight:800;
+  }
+  #judul2 {
+    color:red;
+    font-weight: 800;
+  }
+
+  .container2 {
+    width: 200px;
+    border: 1px solid red;
+    box-shadow: 10px 13px 10px -1px;
+  }
